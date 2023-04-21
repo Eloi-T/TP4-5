@@ -1,0 +1,7 @@
+.has-error {
+    border-color: red;
+}
+
+.success {
+    color: green;
+}
