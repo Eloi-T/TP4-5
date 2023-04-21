@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+span {
+	text-decoration: underline;
+}
+
+a {
+	color: blue;
+}
+
+p {
+	background-color: antiquewhite;
+}
